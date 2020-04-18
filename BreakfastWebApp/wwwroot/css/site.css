@@ -12,6 +12,13 @@ a {
   color: #0366d6;
 }
 
+img {
+    height: auto;
+    width: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .btn-primary {
   color: #fff;
   background-color: #1b6ec2;
